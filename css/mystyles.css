@@ -1,0 +1,10 @@
+.myfont {
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red !important
+}
+.myitalics {
+    font-style: italic !important
+}
